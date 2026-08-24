@@ -1,0 +1,54 @@
+TERMS OF SERVICE
+Last Updated: August 20, 2026
+
+1. Acceptance of Terms
+These Terms of Service ("Terms") are a legal agreement between you and ShinyStarGame ("we," "us," or "our") governing your use of our mobile game (the "Game") and any associated services (collectively, the "Service"). By downloading, installing, accessing, or using the Service, you agree to be bound by these Terms. If you do not agree, please do not use the Service.
+
+2. Acceptable Use
+
+You agree to use the Service only for lawful purposes. You must not:
+
+Use the Service in any way that violates applicable local, state, national, or international law;
+
+Attempt to gain unauthorized access to any part of the Service, other accounts, or computer systems;
+
+Cheat, hack, or use unauthorized third-party software in connection with the Service;
+
+Harass, abuse, or harm other users;
+
+Reverse engineer, decompile, or disassemble the Game or any part of the Service.
+
+3. Intellectual Property
+
+All content, features, and functionality of the Service, including but not limited to graphics, music, code, game design, and trademarks, are owned by ShinyStarGame or our licensors and are protected by international copyright, trademark, patent, and other intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works based on the Service without our prior written permission.
+
+4. Advertisements
+Our Game is free to play and supported by advertisements. We use third-party advertising services (such as Google AdMob) to display ads within the Game. These advertisers may collect and use certain data about your device and usage to serve relevant ads. For more details, please refer to our Privacy Policy and the advertiser's own privacy policy. You can opt out of personalized advertising through your device settings (e.g., "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
+
+5. Termination
+
+We may terminate or suspend your access to the Service immediately, without prior notice, for any reason, including breach of these Terms. Upon termination, your right to use the Service will cease immediately. Provisions that by their nature should survive termination (including but not limited to intellectual property, disclaimer of warranties, limitation of liability, and dispute resolution) shall remain in effect.
+
+6. Third-Party Services
+The Service may contain links to third-party websites or integrate third-party SDKs (such as analytics and advertising services). We are not responsible for the privacy practices, content, or policies of such third parties. Your interactions with third-party services are governed by their own terms and policies.
+
+7. Limitation of Liability
+
+To the maximum extent permitted by law, ShinyStarGame shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service. Our total liability to you shall not exceed $1 USD.
+
+8. Changes to Terms
+
+We reserve the right to modify these Terms at any time. We will notify you of material changes by:
+
+Posting the updated Terms on https://github.com/ShinyStarGame or within the Service;
+
+Updating the "Effective Date" at the top of these Terms;
+
+Or other reasonable means (such as an in-game notice).
+
+Your continued use of the Service after changes constitutes acceptance of the updated Terms. If you do not agree, you must stop using the Service.
+
+
+9. Contact Information
+
+For questions about these Terms, contact us at: shinystargamex@gmail.com
