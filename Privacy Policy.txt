@@ -1,0 +1,64 @@
+Privacy Policy
+Last updated: August 20, 2026
+
+This Privacy Policy describes how the Woofdoku application ("the Game"), developed by ShinyStarGame ("we", "our"), handles user information.
+
+1. Data We Collect
+Woofdoku does not require registration, login, or any personally identifiable information to play.
+
+1.1 Progress data saved on the device
+Game progress (completed levels, lives, available hints, settings) is saved locally on your device and is not sent to our servers.
+
+1.2 Usage and diagnostic data (Firebase Analytics and Crashlytics)
+We use Firebase Analytics and Firebase Crashlytics (Google services) to understand how the Game is used and to identify technical issues. These services may automatically collect:
+
+Installation and device identifiers (not linked to your name or email);
+
+Technical information about the device (model, operating system, language, time zone);
+
+Game usage events (e.g., Game start/Game Win, hint used, play time);
+
+Error reports (logs and crashs).
+
+1.3 Advertising (Google AdMob)
+Woofdoku may display rewarded ads (e.g., to earn extra hints) through Google AdMob. To display and measure ad performance, AdMob and its partners may collect:
+
+Device advertising identifier (Advertising ID / GAID);
+
+IP address and approximate location data;
+
+Information about interaction with ads.
+
+This data is processed in accordance with Google's privacy policies. You can control ad personalization in your Android/iOS device's privacy settings.
+
+2. How we use the data
+The data described above is used to:
+
+Correct errors and improve game stability;
+
+Understanding which features are most used, to prioritize improvements;
+
+Displaying rewarded ads and measuring their performance.
+
+We do not sell your personal data.
+
+3. Data Sharing with Third Parties
+Usage, diagnostic, and advertising data described in sections 1.2 and 1.3 are processed by Google (Firebase and AdMob), according to Google's privacy policies:
+
+Google Privacy Policy: https://policies.google.com/privacy
+
+How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
+
+4. Children
+Woofdoku is a puzzle game suitable for the general public, including children, and does not intentionally collect personally identifiable information from any user, regardless of age.
+
+5. Your Rights
+Since we do not collect personal identifiers (name, email, phone number), it is not possible to associate usage/diagnostic data with a specific person. If you have any questions about the data collected by Google services used in this Game, or wish to exercise rights under the LGPD (Brazilian General Data Protection Law) or other applicable laws, please contact us at the email address below.
+
+6. Changes to this policy
+This Privacy Policy may be updated periodically. The date of the last update is indicated at the top of this document. We recommend reviewing this page regularly.
+
+7. Contact
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: shinystargamex@gmail.com
