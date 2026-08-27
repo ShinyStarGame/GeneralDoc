@@ -1,5 +1,5 @@
 TERMS OF SERVICE
-Last Updated: August 20, 2026
+Last Updated: August 27, 2026
 
 1. Acceptance of Terms
 These Terms of Service ("Terms") are a legal agreement between you and ShinyStarGame ("we," "us," or "our") governing your use of our mobile game (the "Game") and any associated services (collectively, the "Service"). By downloading, installing, accessing, or using the Service, you agree to be bound by these Terms. If you do not agree, please do not use the Service.
@@ -23,7 +23,7 @@ Reverse engineer, decompile, or disassemble the Game or any part of the Service.
 All content, features, and functionality of the Service, including but not limited to graphics, music, code, game design, and trademarks, are owned by ShinyStarGame or our licensors and are protected by international copyright, trademark, patent, and other intellectual property laws. You may not copy, modify, distribute, sell, or create derivative works based on the Service without our prior written permission.
 
 4. Advertisements
-Our Game is free to play and supported by advertisements. We use third-party advertising services (such as Google AdMob) to display ads within the Game. These advertisers may collect and use certain data about your device and usage to serve relevant ads. For more details, please refer to our Privacy Policy and the advertiser's own privacy policy. You can opt out of personalized advertising through your device settings (e.g., "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
+Our Game is free to play and supported by advertisements. We use third-party advertising services (such as Google AdMob) to display ads within the Game. These advertisers may collect and use certain data about your device and usage to serve relevant ads. For more details, please refer to our Privacy Policy and the advertiser's own privacy policy. For users under 13: We strictly serve non-personalized ads and do not share any personal information with advertisers for children. You can opt out of personalized advertising through your device settings (e.g., "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
 
 5. Termination
 
@@ -34,7 +34,7 @@ The Service may contain links to third-party websites or integrate third-party S
 
 7. Limitation of Liability
 
-To the maximum extent permitted by law, ShinyStarGame shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service. Our total liability to you shall not exceed $1 USD.
+To the maximum extent permitted by law, ShinyStarGame shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service. 
 
 8. Changes to Terms
 
